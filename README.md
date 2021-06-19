@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
   this is [my server Discord]:()  
-  my Social Media : 
-  [facebook](https://web.facebook.com/aek.ilyes.3/)
-  [Twitter](https://twitter.com/yahiailyes1)
-  [LinkedIn] .. 
+  my Social Media :  
+  [facebook](https://web.facebook.com/aek.ilyes.3/)  
+  [Twitter](https://twitter.com/yahiailyes1)  
+  [LinkedIn](https://www.linkedin.com/in/yahia-ilyes-193457215/)
 
 <!---
 ilyes-d/ilyes-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
