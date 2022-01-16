@@ -1,8 +1,8 @@
 
-
-I’m currently learning.
-  
-  
+# Ilyes AEK 
+## I m intersted in Competitive programming and Web developement 
+- HTML CSS JS 
+- C JAVA PYTHON 
   
   **my Social Media :**
   [facebook](https://web.facebook.com/aek.ilyes.3/)  
