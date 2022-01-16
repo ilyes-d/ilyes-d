@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ilyes-d
-- 👀 I’m interested in Android App Development , learning backend webdev , and competitve programing 
-- 🌱 I’m currently learning how to manage softwares (as DataBase , Diagrams ... )  
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-  this is [my server Discord]:()  
+
+
+I’m currently learning.
+  
+  
+  
   **my Social Media :**
   [facebook](https://web.facebook.com/aek.ilyes.3/)  
   [Twitter](https://twitter.com/yahiailyes1)  
