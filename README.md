@@ -1,4 +1,6 @@
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyes-d&show_icons=true&theme=merko)
 # Ilyes AEK 
 ## I m intersted in Competitive programming and Web developement 
 - HTML CSS JS 
